@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-color: black;
+    width: 25%;
+    height: 70vh;
+    border-radius: 10px;
+    display: flex;
+    text-align: center;
+    position: relative;
+    left: 35%;
+    margin-top: 5%;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.textmaincolor{
+    width: 65%;
+    height: 9vh;
+    border: none;
+    border-radius: 8px;
+    background-color: white;
+    margin-left: 3%;
+    margin-top: 14%;
+    font-size: 40px;
+    text-align: end;
+    color: #000003;
+    box-shadow: rgba(255, 255, 255, 0.507) 0px 3px 8px;
+}
+
+.text1maincolor{
+    width: 13%;
+    height: 7vh;
+    border-radius: 50%;
+    text-align: center;
+    background-color:#ffcfb8;
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+.nummaincolor{
+    width: 20%;
+    height: 7vh;
+    margin-left: 1%;
+    margin-top: 7%;
+    border:none;
+    border-radius: 8px;
+    background-color: #343a40;
+    color: white;
+    font-size: 20px;
+   cursor: pointer;
+   box-shadow: rgba(13, 13, 14, 0.4) 0px 0px 0px 2px, rgba(0, 0, 0, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+
+
+.numpur{
+    width: 20%;
+    height: 7vh;
+    margin-top: 4%;
+    border:none;
+    border-radius: 8px;
+    margin-left: 1%;
+    background-color: white;
+    cursor: pointer;
+    font-size: 23px;
+    box-shadow: rgba(13, 13, 14, 0.4) 0px 0px 0px 2px, rgba(0, 0, 0, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+
+}
+
+.numpont{
+    width: 20%;
+    height: 7vh;
+    margin-left: 1%;
+    margin-top: 7%;
+    border:none;
+    border-radius: 8px;
+    background-color: #ffcfb8;
+    color: black;
+    font-size: 20px;
+   cursor: pointer;
+   box-shadow: rgba(26, 26, 27, 0.4) 0px 0px 0px 2px, rgba(0, 0, 0, 0.65) 0px 4px 6px -1px, #ff9f7375 0px 1px 0px inset;
+}
+.numora, .numgre, .numpin, .numblue{
+    width: 13%;
+    height: 7vh;
+    margin-top: 4%;
+    border:none;
+    border-radius: 8px;
+    position: relative;
+    left: 3%;
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #ffcfb8;
+    box-shadow: rgba(26, 26, 27, 0.4) 0px 0px 0px 2px, rgba(0, 0, 0, 0.65) 0px 4px 6px -1px, #ff9f7375 0px 1px 0px inset;
+}
+
